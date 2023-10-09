@@ -15,5 +15,5 @@ Außerdem steht ein "EXIT-Button" zur Verfügung, der ein zufälliges Ereignis h
 Bei der Entwicklung haben wir den Game Maker genutzt.  
   
    
-1. Platz in der Kategorie: "Mit Code die Welt verbessern"  
+1.Platz in der Kategorie: "Mit Code die Welt verbessern"  
 Jugend hackt -> https://jugendhackt.org/video/game-of-life/
