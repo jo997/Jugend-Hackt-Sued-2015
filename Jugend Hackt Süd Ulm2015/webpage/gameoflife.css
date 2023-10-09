@@ -1,0 +1,42 @@
+body {
+	  background-color: #CFEFEF;
+	}
+
+h1 {
+font-size: 7em;
+text-align:center;
+font-family: monospace;
+
+}
+
+h2{
+font-size: 3em;
+text-align: center;
+font-family: monospace; 
+
+
+}
+p {
+font-family: monospace;
+text-align: center;
+font-size: 149%;
+
+}
+h3 {
+font-family:monospace;
+text-align: center;
+font-size: 1,5em;
+text-decoration:overline;
+
+}
+h4{
+font-family: monospace;
+text-decoration: underline;
+font-size: 100%;
+}
+h5{
+font-family: monospace;
+text-decoration:none;
+font-size: 1em;
+
+}
