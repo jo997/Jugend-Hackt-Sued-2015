@@ -15,5 +15,5 @@ Diese umfasst Liebe, Gl&uuml;ck, Gesundheit, Stress und Finanzen und k&ouml;nnen
 Au&szlig;erdem steht ein "EXIT-Button" zur Verf&uuml;gung, der ein zuf&auml;lliges Ereignis herbeif&uuml;hrt und die Situation komplett &auml;ndern kann.  
 Bei der Entwicklung haben wir den Game Maker genutzt.   
 
-[Jugend Hackt][https://jugendhackt.org/video/game-of-life/]
+Jugend Hackt -> https://jugendhackt.org/video/game-of-life/
 
