@@ -16,5 +16,5 @@ Au&szlig;erdem steht ein "EXIT-Button" zur Verf&uuml;gung, der ein zuf&auml;llig
 Bei der Entwicklung haben wir den Game Maker genutzt.   
   
    
-1.Plat in der Kategorie: "Mit Code die Welt verbessern"
+1.Plat in der Kategorie: "Mit Code die Welt verbessern"  
 Jugend Hackt -> https://jugendhackt.org/video/game-of-life/  
