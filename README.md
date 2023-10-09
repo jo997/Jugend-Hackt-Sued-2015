@@ -14,6 +14,7 @@ Je nachdem welcher Weg gew&auml;hlt wurde, wirkt sich dies einerseits auf die fo
 Diese umfasst Liebe, Gl&uuml;ck, Gesundheit, Stress und Finanzen und k&ouml;nnen sich auch untereinander beeinflussen.  
 Au&szlig;erdem steht ein "EXIT-Button" zur Verf&uuml;gung, der ein zuf&auml;lliges Ereignis herbeif&uuml;hrt und die Situation komplett &auml;ndern kann.  
 Bei der Entwicklung haben wir den Game Maker genutzt.   
-
-Jugend Hackt -> https://jugendhackt.org/video/game-of-life/
-
+  
+   
+1.Plat in der Kategorie: "Mit Code die Welt verbessern"
+Jugend Hackt -> https://jugendhackt.org/video/game-of-life/  
